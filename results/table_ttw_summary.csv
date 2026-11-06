@@ -1,0 +1,6 @@
+Attack Type,Mean,Std Dev,Median,Minimum,Maximum
+Correlated signal,4.63,0.67,4.89,"2.33 (omega=50, delta=50)","5.43 (omega=400, delta=350)"
+Max speedometer,4.8,0.67,5.03,"2.48 (omega=50, delta=50)","5.94 (omega=300, delta=200)"
+Max engine coolant,4.63,0.67,4.87,"2.47 (omega=50, delta=50)","5.29 (omega=400, delta=400)"
+Reverse lights off,4.62,0.64,4.86,"2.38 (omega=50, delta=50)","5.47 (omega=350, delta=100)"
+Reverse lights on,4.7,0.64,4.94,"2.51 (omega=50, delta=50)","5.27 (omega=400, delta=400)"

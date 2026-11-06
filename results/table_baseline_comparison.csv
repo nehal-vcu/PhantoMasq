@@ -1,0 +1,7 @@
+Attack Type,PhantoMasq AUC-ROC,Marfo AUC-ROC,PhantoMasq AUC-PR,PhantoMasq TTW,Marfo TTW (time-based)
+Correlated signal,0.994 - 1.000,0.60 - 0.84,0.981 - 1.000,2.37 - 5.32,24.00 - 6840.00
+Max speedometer,0.961 - 0.999,0.52 - 0.70,0.920 - 0.997,2.55 - 5.37,5.00 - 20820.00
+Max engine coolant,0.727 - 0.889,0.24 - 0.97,0.128 - 0.341,2.47 - 5.29,237.00 - 4890.00
+Reverse lights off,0.877 - 0.949,0.58 - 0.81,0.594 - 0.808,2.44 - 5.19,27.00 - 6220.00
+Reverse lights on,0.798 - 0.936,0.52 - 0.72,0.575 - 0.808,2.54 - 5.22,5.00 - 8530.00
+Overall Range,0.727 - 1.000,0.24 - 0.97,0.128 - 1.000,2.37 - 5.37,5.00 - 20820.00
