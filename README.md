@@ -96,7 +96,7 @@ with `anonymized.dbc`.
 
 PhantoMasq decodes CAN signals with ACTT (Automotive CAN Tokenization and
 Translation), a CAN-analysis toolkit developed at Oak Ridge National Laboratory
-([Verma et al., 2018](https://arxiv.org/abs/1811.07897)). ACTT is not publicly released
+([Verma et al., 2018](https://ieeexplore.ieee.org/abstract/document/8947694)). ACTT is not publicly released
 and has no license, so it is not included here. To request access, contact the
 authors.
 
